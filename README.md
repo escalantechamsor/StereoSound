@@ -1,7 +1,7 @@
 
 # Stereo Sound
 
-Proyecto creado con la idea de ofrecerr contenido atractivo de páginas de acceso global de interés. Para este caso una página de música SPA que muestra algunas secciones.
+Proyecto creado con la idea de ofrecer contenido atractivo de páginas de acceso global de interés. Para este caso una página de música SPA que muestra algunas secciones.
 
 
 
